@@ -24,10 +24,10 @@
         "body": [
             "BEGIN:VCALENDAR",
             "VERSION:2.0",
-            "PRODID:-//${1:AF4JM}//${2:John Meyer}//EN",
+            "PRODID:-//${1: }//${2: }//EN",
             "CALSCALE:${3:GREGORIAN}",
             "X-WR-CALDESC;VALUE=TEXT:${4: }",
-            "X-WR-RELCALID;VALUE=TEXT:${5:AF4JM.}",
+            "X-WR-RELCALID;VALUE=TEXT:${5: }",
             "X-WR-TIMEZONE:${6:America/New_York}",
             "$TM_SELECTED_TEXT$0",
             "END: VCALENDAR"
@@ -38,7 +38,7 @@
         "prefix": "event",
         "body": [
             "BEGIN:VEVENT",
-            "UID:${1:AF4JM.}",
+            "UID:${1: }",
             "STATUS:${2:CONFIRMED|TENTATIVE|CANCELLED}",
             "SEQUENCE:0",
             "DTSTAMP:${3:00000000}T000000Z",
