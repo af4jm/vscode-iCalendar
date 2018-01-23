@@ -1,0 +1,11 @@
+.vscode/*
+[Dd]esktop.ini
+*.sublime-workspace
+$RECYCLE.BIN/
+ehthumbs.db
+GitHub.sublime-settings
+Thumbs.db
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json

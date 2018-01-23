@@ -1,0 +1,2 @@
+*.md diff eol=auto text
+*.json diff eol=auto text
