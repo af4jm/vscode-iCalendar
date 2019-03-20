@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/Septh/tmlanguage/master/tmLanguage.schema.json",
     "scopeName": "source.icalendar",
     "name": "iCalendar",
     "fileTypes": [
